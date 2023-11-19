@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+<head> 
+    <link rel="stylesheet" href ="exemple.css" >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil</title>
+</head>
+<body>
+    <header class="objet">
+        <h1>Chaouch Syrine</h1>
+        <nav>
+            <ul>
+                <li>spécialité informattique</li>
+                <li>Etablissement: Esprit</li>
+				<li>Age: 21 ans</li>
+                <li><a href="#">mon contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="objet">
+            <article class="objet">
+                <h3><a href="#">mon parcours academique</a></h3>
+            </article>
+			<article class="objet">
+                <h3><a href="#">mes anciens projets</a></h3>
+            </article>
+            <article class="objet">
+                <h3><a href="#">mes expériences</a></h3>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p><a href="https://www.facebook.com/syyrine.chaouch">Facebook</p>
+	<footer>
+	
+</body>
+</html>
+
